@@ -122,4 +122,4 @@ def my_map():
 
             )
 
-    return render_template('mapview.html', mymap=mymap)
+    return render_template('map.html', mymap=mymap)
